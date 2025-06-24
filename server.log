@@ -1,0 +1,8 @@
+127.0.0.1 - - [16/Jun/2025 04:03:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2025 04:03:53] code 404, message File not found
+127.0.0.1 - - [16/Jun/2025 04:03:53] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jun/2025 04:04:02] "GET /index.php HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2025 04:04:47] "GET /demo.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2025 04:04:47] "GET /assets/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2025 04:04:47] "GET /assets/images/placeholder.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2025 04:04:47] "GET /assets/images/hero-bg.jpg HTTP/1.1" 200 -
